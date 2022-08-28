@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+.vscode
+.mvn
 
 # Log file
 *.log
@@ -9,6 +11,8 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+target/**
 
 # Package Files #
 *.jar
