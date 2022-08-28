@@ -1,13 +1,7 @@
 package com.code.wizards.student;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;
 import java.util.List;
-import java.util.Optional;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
-import java.util.ArrayList;
-import java.util.Collection;
-
-import org.hibernate.EntityMode;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;
